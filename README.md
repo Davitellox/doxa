@@ -30,7 +30,7 @@
 
 ## 📦 Download APK
 
-👉 [Download the latest APK]([https://drive.google.com/file/d/1PX6C5RUIicSEY1Fo3To7kE2z4_XZaL44/view?usp=sharing])
+👉 [Download the latest APK](https://drive.google.com/file/d/1PX6C5RUIicSEY1Fo3To7kE2z4_XZaL44/view?usp=sharing)
 
 > 🔐 No login required — just install and start exploring.
 
