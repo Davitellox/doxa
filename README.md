@@ -47,8 +47,7 @@
 
 ## 👤 Author
 
-**David Amos**  
-[LinkedIn or Portfolio link]  
+**David Amos**   
 davitelloamos@gmail.com
 
 ---
