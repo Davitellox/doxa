@@ -47,8 +47,8 @@
 
 ## 👤 Author
 
-**David Amos**   
-davitelloamos@gmail.com
+**Witty Hub**   
+wittyhubrobotics@gmail.com
 
 ---
 
