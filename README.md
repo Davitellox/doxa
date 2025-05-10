@@ -24,8 +24,7 @@
 
 ## 🎥 Demo Preview
 
-<img src="media/demo.gif" width="400"/>
-![App Demo](media/demo.gif)
+<img src="demo.gif" width="400"/>
 
 ---
 
