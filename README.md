@@ -1,20 +1,56 @@
-<<<<<<< HEAD
-# doxa
+# 🤖 DOXA — Bluetooth-Powered Educational Robot App
 
-A new Flutter project.
+**Doxa** is an inspiring and educational mobile app that connects to a robot via Bluetooth. Built with Flutter, Doxa empowers users—especially students and learners—to interact with a robot for learning, creativity, and hands-on exploration of robotics.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img src="media/flutter_01.png" width="200"/>
+  <img src="media/flutter_02.png" width="200"/>
+  <img src="media/flutter_03.png" width="200"/>
+</p>
+<p float="left">
+  <img src="media/flutter_04.png" width="200"/>
+  <img src="media/flutter_05.png" width="200"/>
+  <img src="media/flutter_06.png" width="200"/>
+</p>
+<p float="left">
+  <img src="media/flutter_07.png" width="200"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# doxa
->>>>>>> 46b3089ca56b64994f2be1b0ad72f9809fc37538
+## 🎥 Demo Preview
+
+<img src="media/demo.gif" width="400"/>
+
+---
+
+## 📦 Download APK
+
+👉 [Download the latest APK]([https://github.com/your-username/doxa/releases/latest](https://drive.google.com/file/d/1PX6C5RUIicSEY1Fo3To7kE2z4_XZaL44/view?usp=sharing))
+
+> 🔐 No login required — just install and start exploring.
+
+---
+
+## 🛠️ Built With
+
+- Flutter & Dart
+- Bluetooth connectivity
+- Educational robotics logic
+- [Add anything else: Firebase, Provider, etc.]
+
+---
+
+## 👤 Author
+
+**David Amos**  
+[LinkedIn or Portfolio link]  
+davitelloamos@gmail.com
+
+---
+
+Feel free to fork this project or reach out for collaboration!
