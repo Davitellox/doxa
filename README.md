@@ -28,6 +28,16 @@
 
 ---
 
+## 🎥 See Doxa in Action
+
+Experience Doxa live as students interact with the robot in real-world environments:
+
+- 👦 [Student Demo 1 – Basic Interaction](https://drive.google.com/file/d/1VJ_Bwms9PO7e8rwcOQoQPINeBkqo7nrr/view?usp=drivesdk)  
+- 🎓 [Student Demo 2 – EdTech Robot Response](https://drive.google.com/file/d/1iX7Sdc7_OH0lFLxvYmLVKYNEk8kEBpQU/view?usp=sharing)  
+- 🔧 [Demo 3 – Alternate Bot Display](https://drive.google.com/file/d/1Z_SOumSYlg9703Djyi6gOwztd9-bIB8K/view?usp=sharing)
+
+---
+
 ## 📦 Download APK
 
 👉 [Download the latest APK](https://drive.google.com/file/d/1PX6C5RUIicSEY1Fo3To7kE2z4_XZaL44/view?usp=sharing)
