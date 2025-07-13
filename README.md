@@ -57,8 +57,8 @@ Experience Doxa live as students interact with the robot in real-world environme
 
 ## 👤 Author
 
-**David Amos**   
-davitelloamos@gmail.com
+**Witty Hub**   
+wittyhubrobotics@gmail.com
 
 ---
 
