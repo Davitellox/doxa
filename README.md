@@ -41,7 +41,7 @@
 - Flutter & Dart
 - Bluetooth connectivity
 - Educational robotics logic
-- [Add anything else: Firebase, Provider, etc.]
+- Hardware Microcontrollers
 
 ---
 
